@@ -1,5 +1,5 @@
 # Hi there, I'm Kohinur Fatema 👋
-### Full Stack Web Developer | MERN Stack Specialist
+### Full Stack Web Developer | MERN Stack Focused
 
 ![Banner](./web.png)
 
