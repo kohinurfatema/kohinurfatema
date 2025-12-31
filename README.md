@@ -6,7 +6,7 @@
 ### 📖 About Me
 I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack. I love building responsive, user-centric applications and am constantly expanding my toolkit to include the latest web technologies.
 
-- 🔭 I’m currently working on a **Tourism Management Website**.
+- 🔭 I’m currently working on Next.js
 - 🌱 I’m currently exploring **Next.js** to enhance my frontend performance skills.
 - 💬 Ask me about **React, Tailwind CSS, or MongoDB**.
 - 📫 Reach me at: **[kohinurfatema35@gmail.com]** | **[01915139220]**
@@ -48,4 +48,4 @@ I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack.
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn]([(https://www.linkedin.com/in/kohinur-fatema-2a81653a2)]
