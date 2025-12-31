@@ -1,7 +1,7 @@
 # Hi there, I'm Kohinur Fatema 👋
 ### Full Stack Web Developer | MERN Stack Specialist
 
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Welcome%20to%20My%20Dev%20Portfolio&fontSize=40)
+[Banner](./web.png)
 
 ### 📖 About Me
 I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack. I love building responsive, user-centric applications and am constantly expanding my toolkit to include the latest web technologies.
