@@ -9,7 +9,7 @@ I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack.
 - 🔭 I’m currently working on Next.js
 - 🌱 I’m currently exploring **Next.js** to enhance my frontend performance skills.
 - 💬 Ask me about **React, Tailwind CSS, or MongoDB**.
-- 📫 Reach me at: **[kohinurfatema35@gmail.com]** | **[01915139220]**
+- 📫 Reach me at: **[kohinurfatema35@gmail.com]** | **[019*********]**
 
 ---
 
