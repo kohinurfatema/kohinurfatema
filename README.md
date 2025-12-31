@@ -32,7 +32,11 @@ I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack.
   ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohinurfatema&theme=tokyonight)
   ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohinurfatema&theme=tokyonight)
 
-  ![Streak](https://streak-stats.demolab.com/?user=kohinurfatema&theme=tokyonight)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=kohinurfatema&color=a855f7&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/kohinurfatema?style=for-the-badge&logo=github&labelColor=1a0a2e&color=a855f7)
+
+
 
 
 
