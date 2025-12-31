@@ -23,17 +23,16 @@ I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack.
 
 ---
 
- ## 📊 GitHub Statistics
 
- 
-  Line 28:
-  ![Stats](https://github-readme-stats.vercel.app/api?username=kohinurfatema&show_icons=true&theme=radical)
 
-  Line 30:
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kohinurfatema&theme=radical)
+  ## 📊 GitHub Statistics
 
-  Line 32:
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kohinurfatema&layout=compact&theme=radical)
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kohinurfatema&theme=radical)
+
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohinurfatema&theme=radical)
+  ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohinurfatema&theme=radical)
+
+  ![Streak](https://streak-stats.demolab.com/?user=kohinurfatema&theme=radical)
 
 
 
