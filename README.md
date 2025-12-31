@@ -48,4 +48,5 @@ I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack.
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn]([(https://www.linkedin.com/in/kohinur-fatema-2a81653a2)]
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kohinur-fatema-2a81653a2)
+
