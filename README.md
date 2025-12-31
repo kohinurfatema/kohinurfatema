@@ -1,7 +1,7 @@
 # Hi there, I'm Kohinur Fatema 👋
 ### Full Stack Web Developer | MERN Stack Specialist
 
-[Banner](./web.png)
+![Banner](./web.png)
 
 ### 📖 About Me
 I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack. I love building responsive, user-centric applications and am constantly expanding my toolkit to include the latest web technologies.
