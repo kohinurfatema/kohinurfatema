@@ -6,12 +6,6 @@
 
  [![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=for-the-badge)](mailto:your-email@example.com)
 
-  or
-
-  ![Hiring](https://img.shields.io/badge/Available_for_Hire-Freelance_&_Full--time-blue?style=flat-square)
-
-
-
 
 ### 📖 About Me
 I am a dedicated Full Stack Web Developer with a strong focus on the MERN stack. I love building responsive, user-centric applications and am constantly expanding my toolkit to include the latest web technologies.
